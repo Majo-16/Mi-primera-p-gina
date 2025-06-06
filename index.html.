@@ -1,36 +1,12 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Blog de Majo</title>
+  <meta charset="UTF-8">
+  <title>Mi Primera Página</title>
 </head>
 <body>
-
-<header>
-  <h1>Hola, soy Majo</h1>
-</header>
-
-<main>
-  <section>
-    <h2>Sobre mí</h2>
-    <p>Mi nombre completo es María José Espinoza, pero me gusta que me llamen <strong>Majo</strong>. Soy estudiante de <strong>Negocios Internacionales</strong> y me apasiona explorar el mundo y sus culturas.</p>
-  </section>
-
-  <section>
-    <h2>Pasatiempos</h2>
-    <p>Me encanta <strong>leer</strong> y <strong>ver películas</strong>, perderme en historias y descubrir nuevas perspectivas. También disfruto mucho viajar, conocer personas nuevas y aprender de otras formas de vida.</p>
-  </section>
-
-  <section>
-    <h2>¿Por qué este blog?</h2>
-    <p>Este es mi espacio para compartir pensamientos, experiencias y todo lo que me inspira. ¡Gracias por estar aquí!</p>
-  </section>
-</main>
-
-<footer>
-  &copy; 2025 Majo Espinoza | Blog personal
-</footer>
-
+  <h1>¡Hola, mundo!</h1>
+  <p>Holi soy Majo!</p>
+  <p>Esta es mi primera página web publicada con GitHub Pages.</p>
 </body>
 </html>
